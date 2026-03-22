@@ -11,7 +11,7 @@
 
 ### `< builder of small tools that solve real problems />`
 
-🇵🇭 Philippines &nbsp;·&nbsp; 🛠 Web Tools &nbsp;·&nbsp; 🤖 AI-powered Apps
+🛠️ Web Tools &nbsp;·&nbsp; 🎯 Problem Solver &nbsp;·&nbsp; 💡 Ideas into reality
 
 </div>
 
@@ -22,8 +22,8 @@
 I build small, focused tools — mostly for creators and developers.  
 No bloat. No fuss. Just things that work.
 
-Currently obsessed with **AI + browser-based tools** that run 100% client-side.  
-If it can run without a server, it should.
+My goal is simple — **identify a problem, build a solution, make it easy to use.**  
+If something feels harder than it should be, I'll build something to fix it.
 
 ---
 
@@ -33,10 +33,13 @@ If it can run without a server, it should.
 |---|---|---|
 | [**watergone**](https://watergone.vercel.app) | Removes Gemini AI watermarks from images — free, private, browser-only | `HTML` `Canvas API` |
 | [**yt-transcript**](https://yt-transcript-pi.vercel.app) | Extract transcripts from any YouTube channel in bulk | `Next.js` `YouTube API` |
-| [**script-analyzer**](https://github.com/devmelife/script-analyzer) | AI learns your channel's script formula and writes new scripts | `Next.js` `Claude API` |
+| [**script-analyzer**](https://script-analyzer-nine.vercel.app) | AI learns your channel's script formula and writes new scripts | `Next.js` `Claude API` |
+| [**anime-drive-list**](https://anime-drive-list.vercel.app) | Anime list tracker and manager | `Next.js` |
 | [**net-audio-hunter**](https://github.com/devmelife/net-audio-hunter) | Hunts and extracts audio from the web | `JavaScript` |
 | [**web-ar**](https://github.com/devmelife/web-ar) | Web-based augmented reality experiments | `HTML` `WebAR` |
 | [**ar-photocard-dev**](https://github.com/devmelife/ar-photocard-dev) | AR photocard experience for the browser | `ShaderLab` |
+
+> 🔨 more projects coming soon...
 
 ---
 
@@ -45,9 +48,9 @@ If it can run without a server, it should.
 ```yaml
 languages:   JavaScript · HTML · CSS
 frameworks:  Next.js · React
-ai:          Claude API (Anthropic) · YouTube Data API
+apis:        YouTube Data API · Supadata API
 tools:       VS Code · Vercel · GitHub
-interests:   Browser tools · AI apps · Creator tools
+interests:   Web tools · Creator tools · Anime
 ```
 
 ---
@@ -69,12 +72,14 @@ interests:   Browser tools · AI apps · Creator tools
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-devmelife-e84d1c?style=flat-square&logo=github&logoColor=white)](https://github.com/devmelife)
-[![Watergone](https://img.shields.io/badge/Live_Tool-watergone.vercel.app-e84d1c?style=flat-square&logo=vercel&logoColor=white)](https://watergone.vercel.app)
+[![Watergone](https://img.shields.io/badge/Watergone-watergone.vercel.app-e84d1c?style=flat-square&logo=vercel&logoColor=white)](https://watergone.vercel.app)
+[![Script Analyzer](https://img.shields.io/badge/Script_Analyzer-Live-e84d1c?style=flat-square&logo=vercel&logoColor=white)](https://script-analyzer-nine.vercel.app)
+[![YT Transcript](https://img.shields.io/badge/YT_Transcript-Live-e84d1c?style=flat-square&logo=vercel&logoColor=white)](https://yt-transcript-pi.vercel.app)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>building in public · one tool at a time</sub>
+  <sub>✦ building in public · one tool at a time</sub>
 </div>
